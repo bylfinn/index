@@ -1,0 +1,24 @@
+h1
+{
+    Color: rgb(255, 138, 4); 
+}
+
+body
+{
+    background-color: rgb(98, 5, 121);
+}
+
+#carte
+{
+    
+    width: 800px;
+    margin:0 auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    align-content: center;
+}
+
+ul li
+{
+    list-style-type: none;
+}
